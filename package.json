@@ -1,0 +1,24 @@
+{
+  "name": "sauce-video",
+  "version": "0.0.1",
+  "description": "Gets video url for sauce job id",
+  "main": "sauce.js",
+  "dependencies": {
+    "copy-paste": "~0.2.0",
+    "saucelabs": "~0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "saucelabs",
+    "sauce"
+  ],
+  "author": "karl westin",
+  "license": "BSD",
+  "bin": {
+    "sauce-video" : "cli.js"
+  }
+}
